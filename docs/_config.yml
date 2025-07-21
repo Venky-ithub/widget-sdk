@@ -24,7 +24,7 @@ search.button: true
 # appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Infor."
 
-# Footer last edited timestamp
+# Footer last edited timestamp venkat
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
